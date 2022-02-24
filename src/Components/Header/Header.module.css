@@ -1,0 +1,52 @@
+.h1 {
+  font-weight: bold;
+  font-size: 64px;
+  line-height: 77px;
+  letter-spacing: -0.02em;
+  margin: 64px 0 0 0;
+}
+
+.p {
+  font-size: 21px;
+  line-height: 36px;
+  margin: 0;
+}
+
+.labels {
+  display: block;
+  color: #818182;
+  font-size: 16px;
+  line-height: 28px;
+  margin-bottom: 3px;
+}
+
+.inputsForm {
+  margin: 48px 0 40px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.input {
+  background: #ffffff;
+  border: 1px solid #ced4da;
+  box-sizing: border-box;
+  border-radius: 4px;
+}
+
+input[placeholder], select {
+  font-size: 16px;
+  line-height: 21px;
+  color: #abb5be;
+  padding-left: 17px;
+  box-sizing: border-box;
+}
+
+.inputName {
+  width: 452px;
+  height: 38px;
+}
+
+.inputSchool {
+  width: 216px;
+  height: 38px;
+}
